@@ -1,0 +1,6 @@
+{
+  "name": "Money Line Finance",
+  "description": "Quick, Trusted Loans in R.S. Puram, Coimbatore — Personal, Business, Vehicle, Gold & Property Loan Enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
